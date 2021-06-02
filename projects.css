@@ -1,0 +1,19 @@
+.projectpmain{
+  font-family: 'Squada One', cursive;
+  color:grey;
+  z-index: 1;
+  
+
+}
+.projects1{
+  font-family: 'Squade One', cursive;
+  color: #444;
+  text-decoration: none;
+  z-index: 1;
+}
+.projects1 a{
+  position: absolute;
+  color: #444;
+  text-decoration: none;
+  z-index: 1;
+}

@@ -1,0 +1,37 @@
+.mcallall{
+}
+
+.mclogo{
+  float: left;
+  height: 90vh;
+  display: flex;
+}
+.h1mc{
+  font-family: 'Black Ops One', cursive;
+}
+.p1mc{
+  text-align: left;
+}
+
+
+@media (max-width: 1200px){
+  .mclogo{
+    width: 40vw;
+    height: 50vh;
+    top: 100px;
+  }
+}
+@media (max-width: 500px){
+  .mclogo{
+    width: 40vw;
+    height: 40vh;
+    top: 150px;
+  }
+}
+@media (max-width: 300px){
+  .mclogo{
+    display: none;
+  }
+}
+
+
